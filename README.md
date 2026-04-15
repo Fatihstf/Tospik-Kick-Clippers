@@ -8,7 +8,7 @@ Kick.com için maksimum kalitede klip, VOD ve HLS indirici. Tek dosya kurulum, s
 
 1. `KickClipper-Setup.zip` dosyasını indir.
 2. Sağ tık → **Tümünü çıkart** ile ZIP'i aç.
-3. İçinden çıkan `KickClipper-Setup-LIMITED-EDITION-TOSPIK.exe` dosyasına çift tıkla.
+3. İçinden çıkan [`KickClipper-Setup-LIMITED-EDITION-TOSPIK.exe`](https://github.com/Fatihstf/Tospik-Kick-Clipper/releases/tag/v1.0.1) dosyasına çift tıkla. 
 4. Windows Defender SmartScreen uyarısı çıkarsa: **Daha fazla bilgi → Yine de çalıştır**.
 5. Kurulum sihirbazını takip et, kurulum klasörünü seçebilirsin (varsayılan da olur).
 6. Bittiğinde masaüstünde **Kick Clipper** kısayolu oluşur.
